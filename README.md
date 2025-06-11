@@ -63,7 +63,8 @@ Deploy the app online using Streamlit Cloud.
 
 # Screenshots
 
-![image](https://github.com/user-attachments/assets/29ebf87c-3720-4d61-b03a-7440f63c9434)
+![Spam Prediction](https://github.com/user-attachments/assets/29ebf87c-3720-4d61-b03a-7440f63c9434)
+
 
 
 🙋‍♀️ Author
