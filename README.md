@@ -61,5 +61,10 @@ Add accuracy, precision, recall metrics to the UI.
 
 Deploy the app online using Streamlit Cloud.
 
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/52ba5cfd-1fea-4827-8942-0f9c90163445)
+![image](https://github.com/user-attachments/assets/7a82592f-f120-4e19-8f57-3e88b98e048b)
+
 🙋‍♀️ Author
 Developed by Sure Aasritha
