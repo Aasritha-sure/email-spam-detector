@@ -63,7 +63,7 @@ Deploy the app online using Streamlit Cloud.
 
 # Screenshots
 
-![Spam Prediction](https://github.com/user-attachments/assets/29ebf87c-3720-4d61-b03a-7440f63c9434)
+[![Spam Prediction](https://github.com/user-attachments/assets/29ebf87c-3720-4d61-b03a-7440f63c9434)](https://github.com/Aasritha-sure/email-spam-detector/blob/main/Screenshot%202025-06-11%20130732.png?raw=true)
 
 
 
